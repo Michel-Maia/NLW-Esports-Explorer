@@ -1,5 +1,8 @@
 
-# NLW eSports - Trilha Explorer
+# NLW eSports 
+
+>  Trilha Explorer
+
  Projeto desenvolvido na semana <nlw> eSports da Rocketseat. 12/09/22
 
 ![preview](./.github/preview.png)
