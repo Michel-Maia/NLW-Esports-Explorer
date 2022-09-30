@@ -9,7 +9,7 @@
  Projeto desenvolvido na semana Next Level Week eSports na plataforma da Rocketseat. 
  11/09/22 - 18/09/22
 
-[ 📎 Clique aqui para acessar] (https://Michel-Maia.github.io/NLW-Esports-Explorer)
+[ 🔗 Clique aqui para acessar] (https://Michel-Maia.github.io/NLW-Esports-Explorer/)
 
 
  ## Tecnologias 🖥️ 🚀 
@@ -18,6 +18,13 @@
 - CSS
 - Git e GitHub
 
+
+
+## Referências 
+Rocketseat
+
+- [Youtube] https://www.youtube.com/c/RocketSeat
+- [Rocketseat] https://www.rocketseat.com.br/
 
 
 
